@@ -20,7 +20,7 @@
   "homepage": "https://github.com/next-orders/website#readme",
   "dependencies": {
     "@tabler/icons-react": "2.40.0",
-    "next": "14.0.1",
+    "next": "14.0.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "sharp": "0.32.6"
